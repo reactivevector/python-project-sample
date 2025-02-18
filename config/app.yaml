@@ -1,0 +1,17 @@
+name: pps
+
+mongodb:
+  host: pps-mongodb
+  port: 27017
+  db: pps
+
+cache:
+  type: redis
+  max_size: 1000
+  host: localhost
+  port: 6379
+
+logging:
+  config_file_path: logging.yaml
+
+tmp_dir_path: tmp

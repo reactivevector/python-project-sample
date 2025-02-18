@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Message Board</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/message.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Message Board</h1>
+        <div class="message-input">
+            <form action="{{ url_for('message.create_message') }}" method="POST">
+                <input type="text" name="message_text" placeholder="Enter your message">
+                <button type="submit">Add</button>
+            </form>
+        </div>
+        <ul class="message-list">
+            {% for message in messages %}
+            <li class="message-item">
+                <span>{{ message.text }}</span>
+                <form action="{{ url_for('message.delete_message', message_id=message.id) }}" method="POST" style="display: inline;">
+                    <button type="submit" class="delete-btn">×</button>
+                </form>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+---
+description: Python best pactices
+globs: *.py
+---
+
+# 1. Imports
+# Organize imports in groups:
+# 1. Standard library
+import os
+import sys
+
+# 2. Third-party
+import numpy as np
+import pandas as pd
+
+# 3. Local application
+from .local_module import local_function
+
+
+
+

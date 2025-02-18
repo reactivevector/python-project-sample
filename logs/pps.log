@@ -1,0 +1,157 @@
+2025-02-24 07:18:46,460 - pps.database.mongodb.mongodb - DEBUG - open_session
+2025-02-24 07:18:46,460 - pps.database.mongodb.mongodb - DEBUG - open_session
+2025-02-24 07:18:46,463 - pps.database.mongodb.mongodb - DEBUG - end_session
+2025-02-24 07:18:46,463 - pps.database.mongodb.mongodb - DEBUG - end_session
+2025-02-24 07:18:46,464 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:18:46] "GET /message/ HTTP/1.1" 200 -
+2025-02-24 07:18:46,477 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:18:46] "[36mGET /static/css/message.css HTTP/1.1[0m" 304 -
+2025-02-24 07:19:26,358 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:19:26,845 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:19:27,063 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:19:27,064 - werkzeug - INFO -  * Debugger PIN: 455-355-075
+2025-02-24 07:19:39,453 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:19:39,707 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:19:39,919 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:19:39,920 - werkzeug - INFO -  * Debugger PIN: 121-294-116
+2025-02-24 07:20:01,702 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:20:02,096 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:20:02,334 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:20:02,334 - werkzeug - INFO -  * Debugger PIN: 600-710-792
+2025-02-24 07:21:29,063 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:21:29,504 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:21:29,717 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:21:29,717 - werkzeug - INFO -  * Debugger PIN: 860-443-229
+2025-02-24 07:24:50,251 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:24:50,675 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:24:50,899 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:24:50,900 - werkzeug - INFO -  * Debugger PIN: 115-472-027
+2025-02-24 07:28:11,690 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:28:12,202 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:28:12,416 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:28:12,416 - werkzeug - INFO -  * Debugger PIN: 764-469-298
+2025-02-24 07:28:16,592 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:28:16,982 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:28:17,193 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:28:17,194 - werkzeug - INFO -  * Debugger PIN: 177-785-460
+2025-02-24 07:35:08,024 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:35:08,166 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:35:12,440 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:35:12,649 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:35:12,649 - werkzeug - INFO -  * Debugger PIN: 322-470-927
+2025-02-24 07:35:38,451 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:35:38,888 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:35:39,107 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:35:39,107 - werkzeug - INFO -  * Debugger PIN: 120-084-684
+2025-02-24 07:36:06,955 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:36:07,344 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:36:07,558 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:36:07,558 - werkzeug - INFO -  * Debugger PIN: 133-275-328
+2025-02-24 07:36:27,148 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:36:27,703 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:36:27,915 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:36:27,915 - werkzeug - INFO -  * Debugger PIN: 144-473-896
+2025-02-24 07:37:48,353 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:37:48,860 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:37:49,073 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:37:49,073 - werkzeug - INFO -  * Debugger PIN: 102-068-580
+2025-02-24 07:37:55,311 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:37:55,680 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:37:55,896 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:37:55,896 - werkzeug - INFO -  * Debugger PIN: 736-670-702
+2025-02-24 07:38:03,133 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:38:03,510 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:38:03,728 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:38:03,729 - werkzeug - INFO -  * Debugger PIN: 994-143-427
+2025-02-24 07:40:23,097 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:40:23,461 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:40:23,707 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:40:23,708 - werkzeug - INFO -  * Debugger PIN: 130-069-622
+2025-02-24 07:41:24,570 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:41:25,084 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:41:25,302 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:41:25,303 - werkzeug - INFO -  * Debugger PIN: 112-737-670
+2025-02-24 07:41:34,598 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:41:34,925 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:41:35,193 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:41:35,194 - werkzeug - INFO -  * Debugger PIN: 252-356-814
+2025-02-24 07:41:45,511 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:41:45,786 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:41:45,997 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:41:45,997 - werkzeug - INFO -  * Debugger PIN: 416-437-215
+2025-02-24 07:42:18,512 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:18,512 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:18,519 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:18] "GET /message/ HTTP/1.1" 200 -
+2025-02-24 07:42:18,534 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:18] "[36mGET /static/css/message.css HTTP/1.1[0m" 304 -
+2025-02-24 07:42:18,951 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:18,951 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:18,955 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:18] "GET /message/ HTTP/1.1" 200 -
+2025-02-24 07:42:18,968 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:18] "[36mGET /static/css/message.css HTTP/1.1[0m" 304 -
+2025-02-24 07:42:19,217 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:19,217 - pps.database.message - ERROR - Error finding messages: MongoDbCollection.__init__() got an unexpected keyword argument 'session'
+2025-02-24 07:42:19,218 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:19] "GET /message/ HTTP/1.1" 200 -
+2025-02-24 07:42:19,231 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:19] "[36mGET /static/css/message.css HTTP/1.1[0m" 304 -
+2025-02-24 07:42:36,695 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:42:37,086 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:42:37,311 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:42:37,312 - werkzeug - INFO -  * Debugger PIN: 519-781-726
+2025-02-24 07:42:39,067 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:39] "GET /message/ HTTP/1.1" 200 -
+2025-02-24 07:42:39,088 - werkzeug - INFO - 192.168.65.1 - - [24/Feb/2025 07:42:39] "[36mGET /static/css/message.css HTTP/1.1[0m" 304 -
+2025-02-24 07:43:44,651 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:43:45,014 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:43:47,208 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:43:47,419 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:43:47,419 - werkzeug - INFO -  * Debugger PIN: 797-254-691
+2025-02-24 07:43:50,542 - werkzeug - INFO -  * Detected change in '/app/pps/database/mongodb/mongodb.py', reloading
+2025-02-24 07:43:51,016 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:43:51,288 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:43:51,288 - werkzeug - INFO -  * Debugger PIN: 732-007-877
+2025-02-24 07:44:16,000 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:44:16,497 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:44:16,716 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:44:16,716 - werkzeug - INFO -  * Debugger PIN: 486-359-650
+2025-02-24 07:44:19,803 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:44:20,313 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:44:20,526 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:44:20,526 - werkzeug - INFO -  * Debugger PIN: 528-274-494
+2025-02-24 07:48:37,235 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:48:37,737 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:48:37,952 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:48:37,953 - werkzeug - INFO -  * Debugger PIN: 334-582-255
+2025-02-24 07:49:11,960 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:49:12,227 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:49:12,442 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:49:12,442 - werkzeug - INFO -  * Debugger PIN: 648-022-457
+2025-02-24 07:50:13,512 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:50:14,045 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:50:14,252 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:50:14,253 - werkzeug - INFO -  * Debugger PIN: 989-153-179
+2025-02-24 07:50:19,404 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:50:19,844 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:50:20,075 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:50:20,075 - werkzeug - INFO -  * Debugger PIN: 145-202-933
+2025-02-24 07:50:23,204 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:50:23,680 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:50:23,899 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:50:23,900 - werkzeug - INFO -  * Debugger PIN: 215-853-721
+2025-02-24 07:50:30,102 - werkzeug - INFO -  * Detected change in '/app/pps/database/message.py', reloading
+2025-02-24 07:50:30,499 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 07:50:30,713 - werkzeug - WARNING -  * Debugger is active!
+2025-02-24 07:50:30,713 - werkzeug - INFO -  * Debugger PIN: 778-069-945
+2025-02-24 08:01:47,131 - werkzeug - INFO -  * Detected change in '/app/pps/database/collections/message.py', reloading
+2025-02-24 08:01:47,541 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:01:53,791 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:02:06,236 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:17,446 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:24,842 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:29,060 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:32,362 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:44,981 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:03:59,562 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:06,016 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:09,343 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:11,638 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:20,069 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:33,764 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:04:42,276 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:05:12,598 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:06:02,411 - werkzeug - INFO -  * Restarting with stat
+2025-02-24 08:06:04,685 - werkzeug - INFO -  * Restarting with stat

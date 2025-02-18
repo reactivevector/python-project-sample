@@ -1,0 +1,81 @@
+services:
+  pps-dev:
+    profiles:
+      - dev
+    container_name: pps
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+
+    volumes:
+      - ./config/:/app/config
+      - ./logs/:/app/logs
+      - ./pps/:/app/pps
+    environment:
+      - APP_ENV=dev
+    depends_on:
+      - pps-redis
+    ports:
+      - "5050:5050"
+    networks:
+      - pps-network
+
+  pps:
+    profiles:
+      - prod
+    container_name: pps
+    build:
+      context: .
+      target: prod
+    volumes:
+      - ./config/:/app/config
+
+    environment:
+      - APP_ENV=prod
+    depends_on:
+      - pps-redis
+    ports:
+      - "5050:5050"
+    networks:
+      - pps-network
+
+  pps-redis:
+    container_name: pps-redis
+    image: redis:alpine
+    volumes:
+      - redis-data:/data
+    ports:
+      - "6379:6379"
+    networks:
+      - pps-network
+
+  pps-mongodb:
+    container_name: pps-mongodb
+    image: mongo:latest
+    volumes:
+      - mongodb-data:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - pps-network
+
+  pps-mongodb-express:
+    container_name: pps-mongodb-express
+    image: mongo-express
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=pps-mongodb
+    networks:
+      - pps-network
+
+networks:
+  pps-network:
+    driver: bridge
+
+volumes:
+  redis-data:
+    driver: local
+  mongodb-data:
+    driver: local

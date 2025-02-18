@@ -1,0 +1,29 @@
+version: 1
+disable_existing_loggers: true
+
+formatters:
+  default:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    
+handlers:
+  console:
+    class: logging.StreamHandler
+    formatter: default
+    level: INFO
+  file:
+    class: logging.FileHandler
+    formatter: default
+    level: DEBUG
+    filename: /app/logs/pps.log
+
+root:
+    level: INFO
+    handlers: [console, file]
+    propogate: yes
+
+loggers:
+  pps:
+    level: DEBUG
+    handlers: [console, file]
+    propogate: no
+    
